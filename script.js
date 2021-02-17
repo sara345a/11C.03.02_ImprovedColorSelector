@@ -52,10 +52,7 @@ function fromHexToRgb(hex) {
   return { r, g, b };
 }
 
-
-
-
-  
+///////code from lectors//////
   function fromRgbToHsl(rgb) {
     let r = rgb.r;
     let g = rgb.g;
